@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Elleined&color=blue&style=flat-square&abbreviated=true)
 
-# Joke of the Day
+#### Joke of the Day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-# Qoute of the Day
+#### Qoute of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
